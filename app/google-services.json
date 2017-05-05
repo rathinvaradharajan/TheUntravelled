@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "575222015435",
+    "firebase_url": "https://untravelled-51c7a.firebaseio.com",
+    "project_id": "untravelled-51c7a",
+    "storage_bucket": "untravelled-51c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575222015435:android:9d082ac49f8161c6",
+        "android_client_info": {
+          "package_name": "com.example.welcome.theuntravelled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575222015435-ois9j8epq9rng42c7lk3dn798a9t3mfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.welcome.theuntravelled",
+            "certificate_hash": "a164c7cfb6de4f62207a7b921c88100a15e10646"
+          }
+        },
+        {
+          "client_id": "575222015435-lp3fuhi6cu7bd09ii5m9bnrm9lvntjn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhMLSGFiaU3gjWB7SliDUoj2SmtwmXpl4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575222015435-lp3fuhi6cu7bd09ii5m9bnrm9lvntjn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
